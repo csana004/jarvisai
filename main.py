@@ -14,8 +14,6 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 import requests
 
-WEATHER_API_KEY = '7985d08aab7e881f1a9bc5db244d1585'  # Replace with your actual API key
-
 
 def say(text):
     """Speaks the provided text using pyttsx3."""
